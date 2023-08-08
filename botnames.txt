@@ -32,6 +32,7 @@
 [TSR]Ember
 [GRIM]TheReaper
 [JLU]Superman
+[WULU]KanesWraith
 [NL]ERTails
 [✚] Survivalmaster 
 2gud4u
@@ -81,6 +82,8 @@ astolfo
 aStonedPenguin-Mac
 audish619
 BeepBeepBoop
+Buuba
+Blubvis
 Black Mesa
 BoomerBile
 B18bo
@@ -162,6 +165,7 @@ CypressCube
 DailyOverdoseOfInternet
 Darkmaster
 DarkGemFire
+Dodge_Viper
 DeadHead
 Delara
 Dyno#savetf2
@@ -199,6 +203,7 @@ Dude im on my phone
 DurpyFlurp
 DxrkDreamer
 ebonhammer
+EvilNick
 edeax72
 eduarsoastudillo666
 eeduski
@@ -344,6 +349,7 @@ Lukodo2009
 LUNAR
 M7M
 maballs
+Mimiku~
 Maeylup
 ManeGunner6
 mangbox0230
@@ -374,6 +380,7 @@ Monstera Deliciosa
 monstet_haste
 MOstAr
 MoreGun
+Morazova
 Mr. DispenSir
 Mr. SUTUTUTU
 Mr.Clutch
@@ -425,6 +432,7 @@ Oyasumi German
 Phoenixx
 P4INT3D
 particles
+PanzerGrenadier
 PatchyPeter
 Phallusy
 PIIIIING!
@@ -631,8 +639,11 @@ Xx_Quickscoped_xX
 zaCade
 Zenox
 ZiChev
+ZelkieZelk593
+ZeffZiff
 zipper3030
 xXdavid.gonzalez.2005Xx
 Xx_ImagineBeingThisBadYouGetKillledByAControllerPlayer_xX
 Xalose
+Xoleras
 ϟLightning Boltϟ
