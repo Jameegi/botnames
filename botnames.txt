@@ -62,7 +62,37 @@ AimBot
 An Annoying Pirate
 AnimatorAR
 Anubis
+Agent_AlphaVR
+Agentjet1
+aididanial
+Akeha
+Akira
+Akirii
+ako
+Ali
+AlikeNtrEK
+ALittleKitten
+ALYXXX
+Amaterasu
+AmazzingKappa
+ameergx
+AndyM413
+AnonymousNiceGuy
+AnonymousBadGuy
+AquaTeen1080p
+ArcxAnHell23
+Astrochain
+Asura134
+AustinW
+Average dude
 Apollo
+Aztro
+AzelandQuilava
+AyoNando
+Ayla
+Ayanami
+Awesome_Guy
+AVerySourApple
 Ariel
 Avalanche
 ABigPickle
@@ -182,6 +212,10 @@ CatHammer
 CertifiedBozo
 cheencheena
 Chikki
+Clood
+Choob
+Coconutsu
+Cure Eclair
 chino-sama
 Chrimson
 cinna
@@ -273,6 +307,11 @@ Delicious Cake
 Divide by Zero
 Daishiky
 Dajanko Lundin
+drift
+DDRNick
+DriDemon
+DarkShine
+DarkPharoh
 Dameon
 DEREK!
 danivp
@@ -312,6 +351,7 @@ eduarsoastudillo666
 eeduski
 el dorado
 EL NUMERO UNO
+Emmi
 el._.monki
 Elijahb19
 Elysium
@@ -344,6 +384,8 @@ FTAGAZ
 FTAJaz
 FAZE#SAVETF2
 FekSake
+FrightfullyWicked
+Froggy
 fergana101#savetf2
 Falconica
 Fenrir
@@ -411,7 +453,12 @@ Graceful Jabberwocky
 Graveling
 Green Ranger
 Guull
+Gemfae
+GazRZ86
+GalanticShine
 happer
+Hazel
+Halaku
 H@XX0RZ
 haunted face
 HaveyouhadGinger
@@ -444,6 +491,9 @@ Infamous1xD
 IAN
 ImASU
 IgotchuaDollar
+Inju
+Iggie
+IceClimber
 Ikit Claw
 iluvcamping
 ImMilk
@@ -473,8 +523,12 @@ Jojo
 Jukebox
 Jibils
 Jynxx
+jessandacookie
+jem
+JwashDirt
 K3V
 kairos
+KauluMaisas
 Kamilek
 Kupparoo
 kale
@@ -486,6 +540,10 @@ Kentus
 Keyboard Cat
 KillKill
 Kirk Hamster
+Kyndros
+Kirsty
+Kinreal
+Kachut
 Kiss my shotgun goodnight
 kivines
 kkzeushd
@@ -500,6 +558,7 @@ Locked_Fog
 LegendaryLowRank
 low_quality_soarin
 Legobear
+Lovandori
 Lorenzo
 LemonWanderer
 Lezduit
@@ -523,6 +582,7 @@ lucid
 Luke Skywalker
 Lukodo2009
 LUNAR
+Luna
 M7M
 maballs
 Mimiku~
@@ -532,6 +592,10 @@ mangbox0230
 Mango Spookems
 Maestaro
 Markovas
+Mina
+Moose
+Manicurian
+MakiChan
 Marty McFly
 Maurice
 Mazeaze
@@ -603,6 +667,9 @@ Noodlefries
 norbert16112
 NotDigital
 NTR
+Neo
+Nerita
+NightMountain
 ODZS
 Oathmeal
 ogxh
@@ -617,6 +684,7 @@ Obtrusive
 Ovuvuevuevue Enyetuenwuevue
 Oyasumi German
 Phoenixx
+Princz
 P4INT3D
 particles
 PanzerGrenadier
@@ -645,7 +713,14 @@ Pyrithian
 qumbrella
 Umberlla muffin
 Raptor (F2P)
+remy
+Rekoza
+Robear
+Rumie
+Rudd456
+remington_therapy
 RaptorSpear
+Rahlon
 RushBpls
 RawJar
 Rearn13
@@ -672,6 +747,16 @@ Someone Else
 SomeOrdinaryGamer
 SamuriLegend
 Satanisten LejonSnax x
+Shini
+Scarf
+ShonaMary
+Skyblaze
+Sortie
+speedlolita
+stopp
+studiochai
+syringegun
+Sirocco
 Sclap
 scouse man
 SEEITSCD
@@ -699,8 +784,11 @@ Shank!
 SkullyTheSkelly
 skyandstar1311
 slater
+SlyShyGuy
 Saltfire
+slve
 SmenllyBirb
+Smile!
 sN00Bdog
 snow1999
 SomethingIsCreatingScriptErrors
@@ -730,6 +818,11 @@ Spongebobfan76
 shockwave338
 sza
 TacoBell
+Taxoz
+Tamanta
+Tash_Attack_
+Timlah
+That Man
 t_na
 t_nahe
 T-Pane
@@ -805,6 +898,9 @@ Uriel'is
 Veloc
 V2
 Verasna
+Vialixa
+Velor
+Vayren
 Veritas
 verkigg
 Vincent Vega
@@ -827,6 +923,10 @@ WatWho?
 wHaleJoey
 Wishes
 Wicked Wizard
+WraithOfAnima
+Will_
+warlock
+wex
 WhatsUpSwift
 who!?
 Whitelisted
@@ -850,6 +950,8 @@ Xraden
 Xtroca
 xxxxjimmyboyxxxx
 Y99
+YamiScott
+YamYams
 yeahnothanks
 YeetEliteShmeat
 youknowwhoyouare
